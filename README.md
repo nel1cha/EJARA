@@ -1,2 +1,2 @@
 # EJARA
-Financial investment solution in cryptocurrencies and tokenized assets for Africa
+Financial investment and saving solution in cryptocurrencies and tokenized assets for Africa
